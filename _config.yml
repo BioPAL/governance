@@ -1,0 +1,8 @@
+# Book settings
+title: BioPAL Governance
+author: The BioPAL community
+#logo: logo.png
+
+sphinx:
+  config:
+    html_show_copyright: false
