@@ -1,1 +1,0 @@
-# BioPAL Code of Conduct
