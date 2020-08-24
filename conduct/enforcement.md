@@ -60,7 +60,7 @@ guidelines in mind:
 
 **Mediation:** voluntary, informal mediation is a tool at our disposal.  In
 contexts such as when two or more parties have all escalated to the point of
-inappropriate behavior (something sadly common in human conflict), it may be
+inappropriate behavior, it may be
 useful to facilitate a mediation process. This is only an example: the
 Committee can consider mediation in any case, mindful that the process is meant
 to be strictly voluntary and no party can be pressured to participate. If the
@@ -85,7 +85,7 @@ action deemed necessary.
 ## How the committee will respond to reports
 
 When a report is sent to the committee they will immediately reply to the
-reporter to confirm receipt. This reply must be sent within 24 hours, and the
+reporter to confirm receipt. This reply must be sent within 48 hours, and the
 group should strive to respond much quicker than that.
 
 See the [Reporting Guidelines](reporting_online) for details of
@@ -111,7 +111,7 @@ etc).
 It is important to retain an archive of all activities of this committee to
 ensure consistency in behavior and provide institutional memory for the
 project.  To assist in this, the default channel of discussion for this
-committee will be the BioPAL mailing list accessible to current and future
+committee will be the BioPAL e-mail list accessible to current and future
 members of the committee as well as members of the Steering Council upon
 justified request. If the Committee finds the need to use off-list
 communications (e.g. phone calls for early/rapid response), it should in all
@@ -174,7 +174,7 @@ Possible responses may include:
   this idea: they may at their discretion refuse further contact with the
   violator. The chair will deliver this request. The committee may, if it
   chooses, attach "strings" to this request: for example, the group may ask a
-  violator to apologize in order to retain one’s membership on a mailing list.
+  violator to apologize in order to retain one's membership on a mailing list.
 * A "mutually agreed upon hiatus" where the committee asks the individual to
   temporarily refrain from community participation. If the individual chooses
   not to take a temporary break voluntarily, the committee may issue a

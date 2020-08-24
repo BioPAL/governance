@@ -14,13 +14,12 @@ please include this in your report and we will attempt to notify them.
 If you choose to email, please include the following
 information:
 
-* Your contact info (not required, if you would like to remain anonymous please
-  use the form)
+* Your contact info (not required)
 * Names (real, nicknames, or pseudonyms) of any individuals involved. If there
-  were other witnesses besides you, try to include them as well
+  were other witnesses besides you, try to include them as well (not required)
 * When and where the incident occurred. Please be as specific as possible.
 * Your account of what occurred. If there is a publicly available record (e.g. a
-  Slack or GitHub) please include a link
+  Slack chat or GitHub issue) please include a link
 * Any extra context you believe exists for the incident
 * If you believe this incident is ongoing
 * Any other information you believe we should have
@@ -33,10 +32,10 @@ without your real name.
 ## What happens after you file a report?
 
 You will receive an email from the BioPAL Code of Conduct Committee
-acknowledging receipt immediately. We promise to acknowledge receipt within 24
+acknowledging receipt immediately. We promise to acknowledge receipt within 48
 hours (and will aim for much quicker than that).
 
-The working group will immediately meet to review the incident and determine:
+The committee will immediately communicate to review the incident and determine:
 * What happened
 * Whether this event constitutes a Code of Conduct violation
 * Who the individual(s) involved were

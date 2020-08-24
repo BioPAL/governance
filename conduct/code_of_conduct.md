@@ -3,7 +3,7 @@
 BioPAL is an engaged and respectful community made up of people
 from all over the world. Your involvement helps us to further our
 mission and to create an open platform that serves a broad range of
-communities, from research and education, to journalism, industry and
+communities, from research and education, to industry and
 beyond.
 
 Naturally, this implies diversity of ideas and perspectives on often complex
@@ -18,7 +18,7 @@ healthy community in the face of these challenges.
 
 Fundamentally, we are committed to fostering a productive, harassment-free
 environment for everyone. Rather than considering this code an exhaustive list
-of things that you can’t do, take it in the spirit it is intended - a guide to
+of things that you cannot do, take it in the spirit it is intended - a guide to
 make it easier to enrich all of us and the communities in which we participate.
 
 Importantly: as a member of our community, *you are also a steward of these
@@ -30,9 +30,9 @@ However, sometimes these informal processes may be inadequate: they fail to
 work, there is urgency or risk to someone, nobody is intervening publicly and
 you don't feel comfortable speaking in public, etc.  For these or other
 reasons, structured follow-up may be necessary and here we provide the means
-for that: we welcome reports by emailing
+for that: **we welcome reports by emailing
 [*biopal@esa.int*](mailto:biopal@esa.int). For more details please see our
-[Reporting Guidelines](reporting_online).
+[Reporting Guidelines](reporting_online).**
 
 This code applies equally to founders, developers, mentors and new community
 members, in all spaces managed by BioPAL (including MAAP). This
@@ -40,6 +40,7 @@ includes the MAAP Forums, our GitHub organizations, our chat rooms, in-person
 events and any other forums created by the project team. In addition,
 violations of this code outside these spaces may affect a person's ability to
 participate within them.
+
 
 ## Expected behavior
 
@@ -68,7 +69,7 @@ free to contact the Code of Conduct Committee at
 4. **Be respectful**. Not all of us will agree all the time, but disagreement is
    no excuse for poor behavior or poor manners. We might all experience some
    frustration now and then, but we cannot allow that frustration to turn into a
-   personal attack. It’s important to remember that a community where people
+   personal attack. It is important to remember that a community where people
    feel uncomfortable or threatened is not a productive one.
 
 5. **Be careful in the words that you choose**. Be kind to others. Do not insult
@@ -85,6 +86,7 @@ free to contact the Code of Conduct Committee at
    * Repeated harassment of others. In general, if someone asks you to stop,
      then stop
 
+
 6. **Moderate your expectations**. Please respect that community members choose
    how they spend their time in the project. A thoughtful question about your
    expectations is preferable to demands for another person's time.
@@ -92,12 +94,12 @@ free to contact the Code of Conduct Committee at
 7. **When we disagree, try to understand why**. Disagreements, both social and
    technical, happen all the time and BioPAL is no exception.  Try to
    understand where others are coming from, as seeing a question from their
-   viewpoint may help find a new path forward.  And don’t forget that it is
-   human to err: blaming each other doesn’t get us anywhere, while we can learn
+   viewpoint may help find a new path forward. And do not forget that it is
+   human to err: blaming each other does not get us anywhere, while we can learn
    from mistakes to find better solutions.
 
 8. **A simple apology can go a long way**. It can often de-escalate a situation,
-   and telling someone that you are sorry is an act of empathy that doesn’t
+   and telling someone that you are sorry is an act of empathy that does not
    automatically imply an admission of guilt.
 
 
@@ -147,11 +149,13 @@ Manual*](enforcement).
 
 TBD
 
+
 ## Acknowledgments
 
 Original text courtesy of the [*Speak
 Up!*](http://web.archive.org/web/20141109123859/http://speakup.io/coc.html), [*Django*](https://www.djangoproject.com/conduct) and [*Jupyter*](https://jupyter.org/governance/conduct/code_of_conduct.html) Projects,
 modified by BioPAL.  We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
+
 
 ## License
 
