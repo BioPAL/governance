@@ -2,11 +2,14 @@
 
 Names are followed by GitHub usernames.
 
+
 ## Steering Council
+
 
 ### BDFL
 
 - Klaus Scipal, @kscipal (2020)
+
 
 ### Project Development and Maintenance
 
@@ -25,6 +28,8 @@ Alphabetical by first name:
 
 Alphabetical by first name:
 
+- Maciej Soja, @imsoja (2020)
+
 
 ### Retired steering council members
 
@@ -33,8 +38,8 @@ Alphabetical by first name:
 
 Institutional Council members are noted with each institution.
 
-- [AresysATP](https://aws.amazon.com/) (Davide Giudici, Emanuele Giorgi, Francesco Banda, Paolo Mazzucchelli, Simone Mancon)
-- [ESA](https://www.bloomberg.com/) (Clement Albinet, Klaus Scipal, Stefanie Lumnitz)
+- [AresysATP](https://www.aresys.it/) (Davide Giudici, Emanuele Giorgi, Francesco Banda, Paolo Mazzucchelli, Simone Mancon)
+- [ESA](https://www.esa.int/) (Clement Albinet, Klaus Scipal, Stefanie Lumnitz)
 
 
 ## New Steering Council Members
