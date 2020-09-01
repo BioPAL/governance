@@ -4,6 +4,7 @@ This is the enforcement manual followed by BioPAL's Code of Conduct Committee.
 It's used when we respond to an incident to make sure we are consistent and
 fair.
 
+
 ## The Code of Conduct Committee
 
 All responses to reports of conduct violations will be managed by a Code of
@@ -16,6 +17,15 @@ will serve as the interim Code of Conduct Committee.
 If a Code of Conduct report involves a member of the Steering Council or Code of
 Conduct Committee, that member will not participate in the investigation or any
 decisions related to that report.
+
+
+### Current Code of Conduct Committee members
+
+Alphabetical by first name:
+
+- Clement Albinet, @ClementAlbinet (2020)
+- Paolo Mazzucchelli, @pmazzucchelli (2020)
+
 
 ## Enforcement guidelines and principles
 
@@ -81,6 +91,7 @@ satisfactory to all.  Upon completion, the mediator will provide a report
 on further steps.  The Committee will then evaluate these results (whether
 satisfactory resolution was achieved or not) and decide on any additional
 action deemed necessary.
+
 
 ## How the committee will respond to reports
 
