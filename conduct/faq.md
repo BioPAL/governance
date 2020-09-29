@@ -30,7 +30,7 @@ itself. We expect that most people will simply continue to behave as they have
 in the past.
 
 However, we do expect that people will abide by the spirit and words of the Code
-of Conduct when in "official" BioPAL spaces. In practice, BioPAL spaces include mailing lists, MAAP forums, various communication
+of Conduct when in "official" BioPAL spaces. In practice, BioPAL spaces include mailing lists, various communication
 channels, and events.
 
 ## What happens if someone violates the Code of Conduct?

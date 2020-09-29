@@ -35,8 +35,8 @@ for that: **we welcome reports by emailing
 [Reporting Guidelines](reporting_online).**
 
 This code applies equally to founders, developers, mentors and new community
-members, in all spaces managed by BioPAL (including MAAP). This
-includes the MAAP Forums, our GitHub organizations, our chat rooms, in-person
+members, in all spaces managed by BioPAL. This
+includes our GitHub organizations, our chat rooms, in-person
 events and any other forums created by the project team. In addition,
 violations of this code outside these spaces may affect a person's ability to
 participate within them.

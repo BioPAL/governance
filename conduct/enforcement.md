@@ -190,7 +190,7 @@ Possible responses may include:
   temporarily refrain from community participation. If the individual chooses
   not to take a temporary break voluntarily, the committee may issue a
   "mandatory cooling off period".
-* A permanent or temporary ban from some or all BioPAL spaces (MAAP forums,
+* A permanent or temporary ban from some or all BioPAL spaces (BioPAL organisation,
   Slack, etc.). The group will maintain records of all such bans so that
   they may be reviewed in the future or otherwise maintained.
 
