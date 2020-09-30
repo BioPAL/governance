@@ -1,0 +1,1 @@
+# BioPAL Code of Conduct - Frequently Asked Questions

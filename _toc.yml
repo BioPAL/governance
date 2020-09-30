@@ -1,0 +1,9 @@
+file: intro
+sections:
+- file: governance
+- file: conduct/code_of_conduct
+  sections:
+  - file: conduct/enforcement
+  - file: conduct/faq
+  - file: conduct/reporting_online
+- file: people

@@ -1,0 +1,5 @@
+# Docs
+_build
+
+# Jupyter
+.ipynb_checkpoints
