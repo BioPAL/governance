@@ -8,20 +8,19 @@ Names are followed by GitHub usernames.
 
 ### BDFL
 
-- Klaus Scipal, @kscipal (2020)
-
+- Clement Albinet, @ClementAlbinet (2020)
 
 ### Project Development and Maintenance
 
 Alphabetical by first name:
 
-- Clement Albinet, @ClementAlbinet (2020)
 - Davide Giudici, @davidegiudici (2020)
 - Emanuele Giorgi, @emanuelegiorgi (2020)
 - Francesco Banda, @francescobanda (2020)
 - Paolo Mazzucchelli, @pmazzucchelli (2020)
 - Stefanie Lumnitz, @slumnitz (2020)
 - Simone Mancon, @smancon (2020)
+- Klaus Scipal, @kscipal (2020)
 
 
 ### Scientific Advisory Board
