@@ -12,8 +12,8 @@ section below, is contained in The Project Governance Repository at:
 The BIOMASS Product Algorithm Laboratory (BioPAL) Project (The Project) is an open source software project
 affiliated with the European Space Agency (ESA) and BIOMASS satellite mission.
 The goal of The Project is to
-develop open source software and related technology for processing level 2 (L2) data of ESA's BIOMASS mission. The Project endeavors to extend the 
-initially proposed operational L2 algorithms suite and include the broader scientific community in the development of BioPAL algorithms. The Software developed
+develop, maintain and evolve open source software and related technology for processing Level 1 (L1), Level 2 and 3 (L2/3) data of ESA's BIOMASS mission. The Project endeavors to extend the 
+initially proposed algorithm suite and include the broader scientific community in the development and evolution of BioPAL algorithms. The Software developed
 by The Project is released under the MIT (or similar permissive) open source license, developed openly and hosted in public GitHub repositories under the
 [BioPAL GitHub organization](https://github.com/biopal). Examples of
 Project Software include the tools and configurations related to the deployment of the BIOMASS L2 prototype processor. The Services run by the
@@ -28,7 +28,7 @@ documentation, designs or other work to one or more Project repositories.
 Anyone can be a Contributor. Contributors can be affiliated with any legal
 entity or none. Contributors participate in the project by submitting,
 reviewing and discussing GitHub Pull Requests and Issues and participating in
-open and public Project discussions on GitHub, MAAP forums, Slack chat
+open and public Project discussions on GitHub, Slack chat
 rooms and other channels. The foundation of Project participation is openness
 and transparency.
 
@@ -45,11 +45,7 @@ Community and we strive to keep the barrier between Contributors and Users as
 low as possible.
 
 The Project is formally affiliated with the European Space Agency (ESA)
-([https://www.esa.int/](https://www.esa.int/)), which serves as its fiscal
-sponsor, may hold project trademarks and other intellectual property, helps
-manage project donations or funding and acts as a parent legal entity. ESA is the
-only legal entity that has a formal relationship with the project (see
-Institutional Partners section below).
+([https://www.esa.int/](https://www.esa.int/)).
 
 
 ## Governance
@@ -62,9 +58,9 @@ The foundations of Project governance are:
 -   Active Contribution
 -   Institutional Neutrality
 
-### Benevolent Dictator of Life
+### Benevolent Dictator for Life
 
-The ultimate decision-maker is the BIOMASS mission manager: Klaus Scipal, a trusted member of the community who has the final say in the case of disputes. Additionally, up to three "Benevolent Dictators for Life" (BDFL) can be appointed by ESA staff in accordance to the BIOMASS mission manager. The BDFL model is followed by many successful open source projects. BioPAL will have at least a member of the ESA BIOMASS Mission Staff in this role: [TBD].
+The ultimate decision-maker is the ESA BIOMASS Data Quality Manager: Clement Albinet, who has the final say in the case of disputes. Additionally, up to three "Benevolent Dictators for Life" (BDFL) can be appointed by ESA and in accordance to the BIOMASS Mission Manager. The BDFL model is followed by many successful open source projects. BioPAL will have at least one member of the ESA BIOMASS Mission Staff in this role: either the BIOMASS Data Quality Manager, Mission Manager, PDGS Manager or Science Manager.
 
 As Dictator, the BDFL has the authority to make all final
 decisions for The Project under the BIOMASS mission manager. As Benevolent, the BDFL, in practice chooses to
@@ -76,11 +72,8 @@ asks the BDFL to make a decision on a specific matter. The BDFL is chair
 of the Steering Council (see below) and may delegate his/her authority on a
 particular decision or set of decisions to any other Council member or ESA employee at his/her discretion.
 
-To become eligible to be BDFL an individual must be either an ESA employee, be recommended by the BIOMASS mission manager, or be appointed as successor by a current BDFL, in which case it is expected that the
-Steering Council would be consulted on this decision.
-If a BDFL is unable to appoint a successor, the Steering Council will make a suggestion or suggestions to the
-BIOMASS mission manager. While the Steering Council and BIOMASS mission manager will
-work together closely on the BDFL selection process, the BIOMASS mission manager will make the final decision and appoint a BDFL successor.
+To become eligible to be BDFL an individual must be the BIOMASS Data Quality Manager, Mission Manager, PDGS Manager or Science Manager, and be recommended by the BIOMASS Mission Manager, or be appointed as successor by a current BDFL.
+If a BDFL is unable to appoint a successor, the BIOMASS mission manager will make the final decision and appoint a BDFL successor.
 
 ### The Steering Council
 
@@ -114,7 +107,7 @@ In particular, the Council may, if necessary:
   an issue in a reasonable time frame.
 
 Outcomes and decisions should be clearly communicated to the Community. This can
-take three different forms: 
+take two different forms: 
 
 * New challenges for BioPAL will be detailed as a GitHub issue for the Community
   to discuss.
@@ -129,7 +122,7 @@ To become eligible for being a Steering Council Member an individual must be a P
 quality and quantity, and sustained over at least six months. Potential Council
 Members are nominated by existing Council members and voted upon by the existing
 Council, after asking if the potential Member is interested and willing to serve
-in that capacity. Additionally, an individual can become eligible for being a Steering Council Member for a set period of time, when specifically appointed by an ESA delegate, BIOMASS Mission Manager or a BDFL. The Council will be initially formed from the set of existing
+in that capacity. Additionally, an individual can become eligible for being a Steering Council Member for a set period of time, when specifically appointed by the BIOMASS Mission Manager or a BDFL. The Council will be initially formed from the set of existing
 Developers of the Level 2 BIOMASS prototype processor as of August, 2020.
 
 When considering potential Members, the Council will look at candidates with a
