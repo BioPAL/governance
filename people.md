@@ -9,36 +9,43 @@ Names are followed by GitHub usernames.
 ### BDFL
 
 - Clement Albinet, @ClementAlbinet (2020)
+- Francesco Banda, @francescobanda (2021)
 
 ### Project Development and Maintenance
 
 Alphabetical by first name:
 
-- Davide Giudici, @davidegiudici (2020)
 - Emanuele Giorgi, @emanuelegiorgi (2020)
-- Francesco Banda, @francescobanda (2020)
+- Klaus Scipal, @kscipal (2020)
+- Michele Caccia, @mcacciaesa (2020)
 - Paolo Mazzucchelli, @pmazzucchelli (2020)
 - Stefanie Lumnitz, @slumnitz (2020)
-- Simone Mancon, @smancon (2020)
-- Klaus Scipal, @kscipal (2020)
 
 
 ### Scientific Advisory Board
 
 Alphabetical by first name:
 
+- Alberto Alonso-Gonzalez, @aalgo (2020)
 - Maciej Soja, @imsoja (2020)
-
-
-### Retired steering council members
+- Mauro Mariotti d'Alessandro, @mauromariotti (2020)
 
 
 ## Institutional Partners
 
 Institutional Council members are noted with each institution.
 
-- [AresysATP](https://www.aresys.it/) (Davide Giudici, Emanuele Giorgi, Francesco Banda, Paolo Mazzucchelli, Simone Mancon)
-- [ESA](https://www.esa.int/) (Clement Albinet, Klaus Scipal, Stefanie Lumnitz)
+- [AresysATP](https://www.aresys.it/) (Emanuele Giorgi, Francesco Banda, Paolo Mazzucchelli)
+- [DLR](https://www.dlr.de/EN/Home/home_node.html) (Alberto Alonso-Gonzalez)
+- [ESA](https://www.esa.int/) (Clement Albinet, Klaus Scipal, Michele Caccia, Stefanie Lumnitz)
+- [Mj Soja Consulting](http://mjsoja.com) (Maciej Soja)
+- [Politecnico Milano](https://www.polimi.it/en/) (Mauro Mariotti d'Alessandro)
+
+
+### Retired steering council members
+
+- Davide Giudici, @davidegiudici (2020)
+- Simone Mancon, @smancon (2020)
 
 
 ## New Steering Council Members
